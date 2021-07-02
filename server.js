@@ -19,4 +19,4 @@ app.get('/notes', (req, res) => res.sendFile(path.join(__dirname, 'public/notes.
 
 // Start server
 
-// app.listen(PORT, () => console.log(`App listening on ${PORT}`));
+app.listen(PORT, () => console.log(`App listening on ${PORT}`));
