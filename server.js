@@ -2,6 +2,7 @@
 
 const express = require('express');
 const path = require('path');
+const db = require('./db/db.json');
 
 // Sets up the Express App
 
@@ -21,10 +22,8 @@ app.get('/notes', function(req, res) {
     res.sendFile(path.join(__dirname, 'public/notes.html'));
 });
 
-const noteListItems = [];
-
 app.get('/api/notes', (req, res) => {
-    res.json(noteListItems);
+    res.json(db);
 });
 
 // Start server
