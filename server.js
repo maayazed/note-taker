@@ -21,6 +21,12 @@ app.get('/notes', function(req, res) {
     res.sendFile(path.join(__dirname, 'public/notes.html'));
 });
 
+const noteListItems = [];
+
+app.get('/api/notes', (req, res) => {
+    res.json(noteListItems);
+});
+
 // Start server
 
 app.listen(PORT, () => console.log(`App listening on ${PORT}`));
