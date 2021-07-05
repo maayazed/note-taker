@@ -2,7 +2,7 @@
 
 const express = require('express');
 const path = require('path');
-const db = require('./db/db.json');
+const fs = require('fs');
 
 // Sets up the Express App
 
@@ -13,18 +13,8 @@ var PORT = process.env.PORT || 3001;
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-// Routes
-app.get('/', function(req, res) {
-    res.sendFile(path.join(__dirname, 'public/index.html'));
-}); 
-
-app.get('/notes', function(req, res) {
-    res.sendFile(path.join(__dirname, 'public/notes.html'));
-});
-
-app.get('/api/notes', (req, res) => {
-    res.json(db);
-});
+// Export to routes
+require('./db/routes.js')(app);
 
 // Start server
 
