@@ -16,6 +16,8 @@ app.use(express.static(__dirname));
 
 // Export to routes
 require('./db/routes.js')(app);
+require('./routes/indexhtmlRoute')(app);
+require('./routes/noteshtmlRoute')(app);
 
 // Start server
 
