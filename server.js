@@ -1,8 +1,6 @@
 // Dependencies
 
 const express = require('express');
-const path = require('path');
-const fs = require('fs');
 
 // Sets up the Express App
 
@@ -16,8 +14,8 @@ app.use(express.static(__dirname));
 
 // Export to routes
 require('./db/routes.js')(app);
-require('./routes/indexhtmlRoute')(app);
-require('./routes/noteshtmlRoute')(app);
+require('./routes/indexRoute')(app);
+require('./routes/notesRoute')(app);
 
 // Start server
 
