@@ -11,6 +11,7 @@
 <strong>Table of Contents</strong>  
 <hr>
     <p><a href='#desc'>About</a></p>
+    <p><a href='#deploy'>Deployment</a></p>
     <p><a href='#license'>Licensing</a></p>
     <p><a href='#contribute'>Contributors</a></p>
     <p><a href='#contact'>Contact</a></p>
@@ -33,6 +34,17 @@
 ![Screenshot 2021-07-07 202544](https://user-images.githubusercontent.com/79816212/124848004-9c2dc880-df61-11eb-8b0d-c58b0e5aaa95.png)
 
 ![Screenshot 2021-07-07 202512](https://user-images.githubusercontent.com/79816212/124848017-a5b73080-df61-11eb-99e5-f8232b820c7d.png)
+
+<hr>
+
+<div align='center'>
+    <h3><a id='deploy'>Deployment</a></h3>
+</div>
+
+<div>
+<h4>Instructions: </h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View from repository via provided <a href='https://aqueous-headland-91098.herokuapp.com/'>link</a>.
+</div>
 
 <hr>
 
