@@ -61,8 +61,7 @@
     
 </div>
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-
+<span style="color:orange;">Word up</span>
 <hr>
 
 <div align='center'>
