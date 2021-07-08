@@ -43,7 +43,7 @@
 
 <div>
 <h4>Instructions: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View from repository via provided <a href='https://aqueous-headland-91098.herokuapp.com/'>link</a>. App deployment brought to you by <code>⚛️Heroku</code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View from repository via provided <a href='https://aqueous-headland-91098.herokuapp.com/'>link</a>. App deployment brought to you by <code><strong>⚛️ Heroku</strong></code>
 </div>
 
 <hr>
