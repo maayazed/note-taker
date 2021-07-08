@@ -11,11 +11,8 @@
 <strong>Table of Contents</strong>  
 <hr>
     <p><a href='#desc'>About</a></p>
-    <p><a href='#install'>Installation</a></p>
-    <p><a href='#user'>User Guidelines</a></p>
     <p><a href='#license'>Licensing</a></p>
     <p><a href='#contribute'>Contributors</a></p>
-    <p><a href='#execute'>Execution</a></p>
     <p><a href='#contact'>Contact</a></p>
 
 <hr>
@@ -26,34 +23,12 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Team Profile Generator is a javascript application that dynamically generates a customized team profile utilizing display with html and css <a href='https://getbootstrap.com/'><code>bootstrap</code></a> elements. Your team will include a manager, engineer, and intern.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note Taker is an express server application that enables users to add, view, and delete notes anytime the user desires. The user is enabled  to do so by accessing a database ran through express.
 </div>
 
 <br>
 
 ![Screenshot 2021-06-30 173203](https://user-images.githubusercontent.com/79816212/124039761-32457a00-d9c9-11eb-9295-977f0862fc17.png)
-
-<hr>
-
-<div align='center'>
-    <h3><a id='install'>Installation</a></h3>
-</div>
-
-<div>
-<h4>Instructions: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Download from repository. Node is required to initialize the index.js file.
-</div>
-
-<hr>
-
-<div align='center'>
-    <h3><a id='user'>User Guidelines</a></h3>
-</div>
-
-<div>
-<h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the command line install the package.json dependencies then run index.js with node. The command-line prompts the user for inputs and selections from <a href='https://www.npmjs.com/package/inquirer'><code>inquirer</code></a> to customize the file myTeam.html generation.
-</div>
 
 <hr>
 
