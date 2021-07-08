@@ -55,7 +55,7 @@
 
 <div>
 <h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the homepage of the application, continute by selecting the <code>Get Started</code> button. When brought to the main page of the application, begin a new note by filling in the respective <strong>Note Title</strong> and <strong>Note Text</strong> fields. <span style="color:red">NOTE: The save icon will not show for users if either text field is left empty</span>.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the homepage of the application, continute by selecting the <code>Get Started</code> button. When brought to the main page of the application, begin a new note by filling in the respective <strong>Note Title</strong> and <strong>Note Text</strong> fields. <span style="color:red">WARNING: *The save icon will not show for users if either text field is left empty*</span>.
 
 <pre><code>Save a note by selecting the 💾 icon</code></pre>
 <pre><code>Start a new note by selecting the ➕ icon</code></pre>
