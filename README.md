@@ -82,7 +82,7 @@
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/User-maayazed-blue'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in collaboration with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://user-images.githubusercontent.com/79816212/124851153-989d4000-df67-11eb-95c2-463c223bf673.png' width="50%" height="50%">
+<img src='https://images.credly.com/size/220x220/images/a80dc27c-41a9-4229-9ea6-bf5b67114695/8ed35baf3e8a4ee04b04c8856403fa18.png' width="50%" height="50%">
 </div>
 
 <hr>
