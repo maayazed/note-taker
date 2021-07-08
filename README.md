@@ -26,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note Taker is an express server application that enables users to add, view, and delete notes anytime the user desires. The user is enabled  to do so by accessing a database ran through express.
 </div>
 
+<h2 align="center"><strong><a href='https://aqueous-headland-91098.herokuapp.com/'>LIVE DEMO</a></strong></h2>
+
 <br>
 
 ![Screenshot 2021-07-07 202544](https://user-images.githubusercontent.com/79816212/124848004-9c2dc880-df61-11eb-8b0d-c58b0e5aaa95.png)
