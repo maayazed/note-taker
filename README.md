@@ -55,7 +55,7 @@
 
 <div>
 <h4>Guide: </h4> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the search-box, enter a keyword of a <strong>place</strong> or <strong>location</strong> to view relevant daily data from the search made. Your latest recent search is stored persistantly, enabling you to view your latest search made on the page.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the homepage of the application, continute by selecting the <code>Get Started</code> button. When brought to the main page of the application, begin a new note by filling in the respective <strong>Note Title</strong> and <strong>Note Text</strong> fields.
 </div>
 
 <hr>
