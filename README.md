@@ -4,7 +4,7 @@
 
 ### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) ![badge src!](https://img.shields.io/badge/Language-JavaScript-yellow) ![badge src!](https://img.shields.io/badge/Language-HTML-red)
 
-![2021-06-30-17-02-40](https://user-images.githubusercontent.com/79816212/124038324-8dc23880-d9c6-11eb-9c77-f782c0eb1f13.gif)
+![note-taker](https://user-images.githubusercontent.com/79816212/124846433-6dfab980-df5e-11eb-82c1-1b6dae418d21.gif)
 
 <div align='center'>
 <strong>Table of Contents</strong>  
