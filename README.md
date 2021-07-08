@@ -1,8 +1,9 @@
 <div align='center'>
-<h1><strong>Team Profile Generator</strong></h1>
+<h1><strong>Note Taker</strong></h1>
+<h2>An Express Sever Application</h2>
 </div>
 
-### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) ![badge src!](https://img.shields.io/badge/Language-JavaScript-yellow) ![badge src!](https://img.shields.io/badge/Language-HTML-red)
+### Badges: [![badge src!](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses) ![badge src](https://img.shields.io/badge/JavaScript-63.7%25-yellow) ![badge src](https://img.shields.io/badge/HTML-25.0%25-red) ![badge src](https://img.shields.io/badge/CSS-11.3%25-blueviolet)
 
 ![note-taker](https://user-images.githubusercontent.com/79816212/124846433-6dfab980-df5e-11eb-82c1-1b6dae418d21.gif)
 
