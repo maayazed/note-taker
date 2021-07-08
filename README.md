@@ -81,7 +81,8 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/User-maayazed-blue'></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/User-maayazed-blue'></a> in collaboration with 
+<img src='https://user-images.githubusercontent.com/79816212/124851153-989d4000-df67-11eb-95c2-463c223bf673.png'>
 </div>
 
 <hr>
