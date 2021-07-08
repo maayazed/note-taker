@@ -28,7 +28,9 @@
 
 <br>
 
-![Screenshot 2021-06-30 173203](https://user-images.githubusercontent.com/79816212/124039761-32457a00-d9c9-11eb-9295-977f0862fc17.png)
+![Screenshot 2021-07-07 202544](https://user-images.githubusercontent.com/79816212/124848004-9c2dc880-df61-11eb-8b0d-c58b0e5aaa95.png)
+
+![Screenshot 2021-07-07 202512](https://user-images.githubusercontent.com/79816212/124848017-a5b73080-df61-11eb-99e5-f8232b820c7d.png)
 
 <hr>
 
