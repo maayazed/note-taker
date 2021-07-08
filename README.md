@@ -71,7 +71,7 @@
 </div>
 
 <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>MIT</strong> © <strong>maayazed</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Server side materials <strong>ONLY</strong> found in respository provided by <strong>MIT</strong> © <strong>maayazed</strong>
 </div>
 
 <hr>
@@ -82,7 +82,7 @@
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/User-maayazed-blue'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in collaboration with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src='https://user-images.githubusercontent.com/79816212/124851684-9edfec00-df68-11eb-9686-3e92a871c50d.png' width="50%" height="50%">
+<a href='https://bootcamp.umn.edu/coding/landing-ftpt/?s=Google-Brand_RFull_&msg_cv_scta=4&msg_cv_stbn=1&msg_cv_fcta=1&pkw=university%20of%20minnesota%20coding%20bootcamp&pcrid=463322140735&pmt=e&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CUNIVERSITY-OF-MINNESOTA%7CSEM%7CCODING%7C-%7COFL%7C_RFull_%7CALL%7CBRD%7CEXACT%7CCore%7CBootcamp&utm_term=university%20of%20minnesota%20coding%20bootcamp&s=google&k=university%20of%20minnesota%20coding%20bootcamp&utm_adgroupid=110389094082&utm_locationphysicalms=9019484&utm_matchtype=e&utm_network=g&utm_device=c&utm_content=463322140735&utm_placement=&gclid=CjwKCAjwoZWHBhBgEiwAiMN66aZsKq-VPk-lPODjVoafWNN7dwSiQPtTbmaDdGtd2vvCUDO0bBzm6BoCD2sQAvD_BwE&gclsrc=aw.ds'><img src='https://user-images.githubusercontent.com/79816212/124851684-9edfec00-df68-11eb-9686-3e92a871c50d.png' width="50%" height="50%"></a>
 </div>
 
 <hr>
