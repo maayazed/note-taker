@@ -56,14 +56,13 @@
 <div>
 <h4>Guide: </h4> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the homepage of the application, continute by selecting the <code>Get Started</code> button. When brought to the main page of the application, begin a new note by filling in the respective <strong>Note Title</strong> and <strong>Note Text</strong> fields.
+    
 <pre><code>Save a note by selecting the 💾 icon</code></pre>
 <pre><code>Start a new note by selecting the ➕ icon</code></pre>
     
+⚠️ The save icon will not show for users if either text field is left empty.
+    
 </div>
-
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
 
 <hr>
 
