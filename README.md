@@ -12,6 +12,7 @@
 <hr>
     <p><a href='#desc'>About</a></p>
     <p><a href='#deploy'>Deployment</a></p>
+    <p><a href='#user'>User Guidelines</a></p>
     <p><a href='#license'>Licensing</a></p>
     <p><a href='#contribute'>Contributors</a></p>
     <p><a href='#contact'>Contact</a></p>
@@ -43,7 +44,18 @@
 
 <div>
 <h4>Instructions: </h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View from repository via provided <a href='https://aqueous-headland-91098.herokuapp.com/'>link</a>. App deployment brought to you by <code><strong><a href='https://www.heroku.com/free'>⚛️Heroku</a></strong></code>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;View from repository via provided <a href='https://aqueous-headland-91098.herokuapp.com/'>link</a>. App deployment brought to you by <code><strong><a href='https://www.heroku.com/free'>⚛️Heroku</a></strong></code>.
+</div>
+
+<hr>
+
+<div align='center'>
+    <h3><a id='user'>User Guidelines</a></h3>
+</div>
+
+<div>
+<h4>Guide: </h4> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From the search-box, enter a keyword of a <strong>place</strong> or <strong>location</strong> to view relevant daily data from the search made. Your latest recent search is stored persistantly, enabling you to view your latest search made on the page.
 </div>
 
 <hr>
@@ -64,20 +76,6 @@
 
 <div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/maayazed/'><img src='https://img.shields.io/badge/User-maayazed-blue'></a>
-</div>
-
-<hr>
-
-<div align='center'>
-    <h3><a id='execute'>Execution</a></h3>
-</div>
-
-<div>
-<h4> Execution: Command Line</h4>
-<pre><code>npm i</code></pre>
-<pre><code>npm start</code></pre>
-  or
-<pre><code>node server.js</code></pre>
 </div>
 
 <hr>
